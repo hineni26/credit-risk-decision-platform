@@ -26,5 +26,12 @@
   "deferred_payment_plan",
   "eltv",
   "zero_bal_removal_upb",
-  "delinq_accrued_interest"
+  "delinq_accrued_interest",
+  "delinq_due_to_disaster",
+  "borrower_assistance_plan",
+  "current_period_mod_cost",
+  "current_ib_upb",
+  "mi_cancellation_ind",
+  "servicer_name",
+  "bankruptcy_cramdown_costs"
 ]
